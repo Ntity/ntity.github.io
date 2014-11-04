@@ -4,6 +4,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 (function($) {
 
 	skel.init({
@@ -18,6 +19,8 @@
 			mobilep:	{ range: '-480', href: 'css/style-mobilep.css', containers: '100%', grid: { collapse: 2, gutters: 15 } }
 		}
 	});
+
+
 
 	$(function() {
 
@@ -49,5 +52,7 @@
 			}
 
 	});
+
+
 
 })(jQuery);

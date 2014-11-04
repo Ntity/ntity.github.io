@@ -12,7 +12,13 @@
 	html, body {
 		height: 100%;
 	}
-
+#button{
+background-color:green;
+text-align:center;
+color:white;
+height:30px
+padding-top:8px
+}
 	body {
 		background: white;
 	}
